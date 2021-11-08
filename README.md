@@ -6,6 +6,7 @@
 https://shauri.student.fdnd.nl
 ![image](https://user-images.githubusercontent.com/90189750/140339119-2c3da0bc-5f05-4702-8dcd-cda438653703.png)
 
+Ik heb geprobeerd om voor dit visitekaartje wat meer te gaan experimenteren met kleuren. Voor de achtegrond van mijn visitekaart wou ik een subtiele kleur dat fijn is om naar te kijken, ik heb hiervoor een grijze gradient kleur gekozen. Daarnaast wou ik dat mijn naam het meeste zou gaan opvallen op het visitekaartje, ik heb daarom mijn naam een soort neon oranje kleur gegeven dat beweegt wanneer je er over heen hovert. 
 
 ## Inhoudsopgave
 
