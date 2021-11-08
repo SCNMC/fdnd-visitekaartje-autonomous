@@ -8,23 +8,28 @@ https://shauri.student.fdnd.nl
 
 Ik heb geprobeerd om voor dit visitekaartje wat meer te gaan experimenteren met kleuren. Voor de achtegrond van mijn visitekaart wou ik een subtiele kleur dat fijn is om naar te kijken, ik heb hiervoor een grijze gradient kleur gekozen. Daarnaast wou ik dat mijn naam het meeste zou gaan opvallen op het visitekaartje, ik heb daarom mijn naam een soort neon oranje kleur gegeven dat beweegt wanneer je er over heen hovert. 
 
-## Inhoudsopgave
 
-- [Titel](#titel)
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+## Analyse
 
-## Kenmerken
+Tijdens de analyse fase ben ik voor mezelf gaan bedenken wat ik wil gaan maken. Ik ben uiteindelijk gekomen op een visitekaartje dat netjes is ingedeelt met niet al teveel kleuren die niet prettig zijn om naar te kijken. daarnaast wou ik proberen om hierarchie toe te gaan passen in mijn ontwerp.
 
-## Installatie
+## Ontwerpen
+  
+  In de ontwerpfase ben ik mijn ideeen gaan schetsen om zo een beter beeld te krijgen en om verschillende ideen te krijgen. Ik heb dit gedaan doormiddel op papier mijn schetsen uit te gaan werken. Na verschillende schetsen te hebben getekent heb ik 1 schets ervan uitgekozen om dit uiteindelijk te gaan bouwen.
+  
+  
+## Bouwen
+  
+  Ik heb tijdens de bouwfase gebruik gemaakt van HTML en CSS om mijn visitekaartje te maken. Dit heb ik zelfstandig gedaan door informatie op te zoeken op internet en ook aan mede studenten hulp te vragen wanneer ik iets niet wist. 
 
-## Gebruik
+## Integreren 
 
-## Bronnen
+Het integreren van mijn visitekaartje heb ik gedaan via github.
+
+## Testen
+ 
+ Na het intergeren van mijn visitekaartje heb ik gelijk getest of het ook naar behoren werkt.
+ 
 
 ## Licentie
 
