@@ -19,6 +19,7 @@ Tijdens de analyse fase ben ik voor mezelf gaan bedenken wat ik wil gaan maken. 
   In de ontwerpfase ben ik mijn ideeen gaan schetsen om zo een beter beeld te krijgen en om verschillende ideen te krijgen. Ik heb dit gedaan doormiddel op papier mijn schetsen uit te gaan werken. Na verschillende schetsen te hebben getekent heb ik 1 schets ervan uitgekozen om dit uiteindelijk te gaan bouwen.
  
  Schetsen:
+ 
  <img width="590" alt="Schermafbeelding 2021-11-09 om 11 28 27" src="https://user-images.githubusercontent.com/90189750/140907844-0618ecd6-c149-4702-8b87-79e29c4e6540.png">
 
 <img width="590" alt="Schermafbeelding 2021-11-09 om 11 30 45" src="https://user-images.githubusercontent.com/90189750/140908166-c775dcae-f1df-4bc8-81bf-b8ebdf6a60b6.png">
