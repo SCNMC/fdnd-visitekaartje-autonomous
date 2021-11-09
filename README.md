@@ -7,6 +7,7 @@ https://shauri.student.fdnd.nl
 ![image](https://user-images.githubusercontent.com/90189750/140339119-2c3da0bc-5f05-4702-8dcd-cda438653703.png)
 
 Ik heb geprobeerd om voor dit visitekaartje wat meer te gaan experimenteren met kleuren. Voor de achtegrond van mijn visitekaart wou ik een subtiele kleur dat fijn is om naar te kijken, ik heb hiervoor een grijze gradient kleur gekozen. Daarnaast wou ik dat mijn naam het meeste zou gaan opvallen op het visitekaartje, ik heb daarom mijn naam een soort neon oranje kleur gegeven dat beweegt wanneer je er over heen hovert. 
+![4321](https://user-images.githubusercontent.com/90189750/140907371-a497ed2b-6f4a-454e-888a-92e88d2fd20e.png)
 
 
 ## Analyse
@@ -16,7 +17,11 @@ Tijdens de analyse fase ben ik voor mezelf gaan bedenken wat ik wil gaan maken. 
 ## Ontwerpen
   
   In de ontwerpfase ben ik mijn ideeen gaan schetsen om zo een beter beeld te krijgen en om verschillende ideen te krijgen. Ik heb dit gedaan doormiddel op papier mijn schetsen uit te gaan werken. Na verschillende schetsen te hebben getekent heb ik 1 schets ervan uitgekozen om dit uiteindelijk te gaan bouwen.
-  
+ 
+ Schetsen:
+ ![Uploading 4321.png…]()
+  ![123344](https://user-images.githubusercontent.com/90189750/140907465-6a250664-1da2-442a-9c55-f0715d51a423.png)
+
   
 ## Bouwen
   
